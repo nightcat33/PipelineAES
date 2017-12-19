@@ -1,0 +1,7 @@
+do D:/proj/Chapter-11/11.2/word_mixcolum.v
+# ** Error: invalid command name "`include"
+# Error in macro D:\proj\Chapter-11\11.2\word_mixcolum.v line 1
+# invalid command name "`include"
+#     while executing
+# "`include "timescale.v"
+# "
